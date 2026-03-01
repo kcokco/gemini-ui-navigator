@@ -1,0 +1,11 @@
+# Virtuális környezet
+venv/
+__pycache__/
+*.pyc
+
+# Érzékeny adatok (API kulcsok)
+.env
+
+# Operációs rendszer fájljai
+.DS_Store
+Thumbs.db
